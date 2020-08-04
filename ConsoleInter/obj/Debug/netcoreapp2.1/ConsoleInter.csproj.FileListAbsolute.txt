@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\ConsoleInter\ConsoleInter\bin\Debug\netcoreapp2.1\ConsoleInter.deps.json
+C:\Users\Owner\source\repos\ConsoleInter\ConsoleInter\bin\Debug\netcoreapp2.1\ConsoleInter.runtimeconfig.json
+C:\Users\Owner\source\repos\ConsoleInter\ConsoleInter\bin\Debug\netcoreapp2.1\ConsoleInter.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\ConsoleInter\ConsoleInter\bin\Debug\netcoreapp2.1\ConsoleInter.dll
+C:\Users\Owner\source\repos\ConsoleInter\ConsoleInter\bin\Debug\netcoreapp2.1\ConsoleInter.pdb
+C:\Users\Owner\source\repos\ConsoleInter\ConsoleInter\obj\Debug\netcoreapp2.1\ConsoleInter.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\ConsoleInter\ConsoleInter\obj\Debug\netcoreapp2.1\ConsoleInter.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\ConsoleInter\ConsoleInter\obj\Debug\netcoreapp2.1\ConsoleInter.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\ConsoleInter\ConsoleInter\obj\Debug\netcoreapp2.1\ConsoleInter.AssemblyInfo.cs
+C:\Users\Owner\source\repos\ConsoleInter\ConsoleInter\obj\Debug\netcoreapp2.1\ConsoleInter.dll
+C:\Users\Owner\source\repos\ConsoleInter\ConsoleInter\obj\Debug\netcoreapp2.1\ConsoleInter.pdb
